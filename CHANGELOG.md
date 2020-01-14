@@ -1,5 +1,25 @@
 # Changelog
 
+### [1.34.1](https://www.github.com/googleapis/google-http-java-client/compare/v1.34.0...v1.34.1) (2020-01-14)
+
+
+### Bug Fixes
+
+* use random UUID for multipart boundary delimiter ([#916](https://www.github.com/googleapis/google-http-java-client/issues/916)) ([91c20a3](https://www.github.com/googleapis/google-http-java-client/commit/91c20a3dfb654e85104b1c09a0b2befbae356c19))
+
+
+### Dependencies
+
+* remove unnecessary MySQL dependency ([#943](https://www.github.com/googleapis/google-http-java-client/issues/943)) ([14736ca](https://www.github.com/googleapis/google-http-java-client/commit/14736cab3dc060ea5b60522ea587cfaf66f29699))
+* update dependency mysql:mysql-connector-java to v8.0.19 ([#940](https://www.github.com/googleapis/google-http-java-client/issues/940)) ([e76368e](https://www.github.com/googleapis/google-http-java-client/commit/e76368ef9479a3bf06f7c7cb878d4e8e241bb58c))
+* update dependency org.apache.httpcomponents:httpcore to v4.4.13 ([#941](https://www.github.com/googleapis/google-http-java-client/issues/941)) ([fd904d2](https://www.github.com/googleapis/google-http-java-client/commit/fd904d26d67b06fac807d38f8fe4141891ef0330))
+
+
+### Documentation
+
+* fix various paragraph issues in javadoc ([#867](https://www.github.com/googleapis/google-http-java-client/issues/867)) ([029bbbf](https://www.github.com/googleapis/google-http-java-client/commit/029bbbfb5ddfefe64e64ecca4b1413ae1c93ddd8))
+* libraries-bom 3.3.0 ([#921](https://www.github.com/googleapis/google-http-java-client/issues/921)) ([7e0b952](https://www.github.com/googleapis/google-http-java-client/commit/7e0b952a0d9c84ac43dff43914567c98f3e81f66))
+
 ## [1.34.0](https://www.github.com/googleapis/google-http-java-client/compare/v1.33.0...v1.34.0) (2019-12-17)
 
 
